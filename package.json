@@ -1,24 +1,25 @@
 {
   "name": "daquipab",
   "version": "1.0.0",
-  "description": "Setup app guide for web development using node +  express + git + github + sublime",
-  "main": "index.js",
+  "description": "Web Dev't Boilerplate Setup using Express",
+  "main": "server.js",
   "scripts": {
-    "start": "node server.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/daquipabrylle/daquipab.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Brylle Daquipa",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/clydeatuic/webdevatuic/issues"
+    "url": "https://github.com/daquipabrylle/daquipab/issues"
   },
-  "homepage": "https://github.com/clydeatuic/webdevatuic#readme",
+  "homepage": "https://github.com/daquipabrylle/daquipai#readme",
   "dependencies": {
     "express": "^4.14.1"
-  }
+  },
+  "devDependencies": {}
 }
