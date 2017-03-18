@@ -10,7 +10,7 @@ setTimeout(function(){
 
 function x(){
 $.ajax({
-	url: "http://www.omdbapi.com/?t=saw+III"
+	url: "http://www.omdbapi.com/?t=SAW"
 }).done(function(res){
 	console.log(res);
 	let html = 
@@ -33,7 +33,7 @@ $.ajax({
 		<br>
 		<h5>MOVIE TRAILER<h5>
 		<div style="width:1000px;height:500px;padding:10px;border:10px double red;">		
-		<iframe width="1000" height="500" src="https://www.youtube.com/embed/76K0UGvkqYU" frameborder="0" allowfullscreen></iframe>
+		<iframe width="1000" height="500" src="https://www.youtube.com/embed/S-1QgOMQ-ls" frameborder="0" allowfullscreen></iframe>
 		</div>
 		</left>
 		<center>
@@ -43,18 +43,18 @@ $.ajax({
 <tr>
 <center>
 <td><div class="gallery">
-  <a target="_blank" href="sw9.jpg">
+  <a target="_blank" href="../public/image/sw1.jpg">
   <div style="width:500px;height:300px;padding:10px;border:10px double red;">
-  <img src="sw9.jpg" alt="sw9.jpg" width="500" height="300">
+  <img src="../public/image/sw1.jpg" alt="../public/image/sw1.jpg" width="500" height="300">
   </a>
   </div>
   </div>
 </td>
 <td>
 <div cla ss="gallery"> 	
-  <a target="_blank" href="sw10.jpg">
+  <a target="_blank" href="../public/image/sw2.jpg">
   <div style="width:500px;height:300px;padding:10px;border:10px double red;">
-    <img src="sw10.jpg" alt="sw10.jpg" width="500" height="300">
+    <img src="../public/image/sw2.jpg" alt="../public/image/sw2.jpg" width="500" height="300">
   </div>
   </a>
   </td>
@@ -63,9 +63,9 @@ $.ajax({
 <td>
 <center>
 <div class="gallery">
-  <a target="_blank" href="sw11.jpg">
+  <a target="_blank" href="../public/image/sw3.jpg">
   <div style="width:500px;height:300px;padding:10px;border:10px double red;">
-    <img src="sw11.jpg" alt="sw12.jpg" width="500" height="300">
+    <img src="../public/image/sw3.jpg" alt="../public/image/sw3.jpg" width="500" height="300">
   </div>
   </a>
 </td>  
@@ -73,9 +73,9 @@ $.ajax({
 <br>
 <td>
 <div class="gallery">
-  <a target="_blank" href="sw12.jpg">
+  <a target="_blank" href="../public/image/sw4.jpg">
   <div style="width:500px;height:300px;padding:10px;border:10px double red;">
-    <img src="sw12.jpg" alt="sw12.jpg" width="500" height="300">
+    <img src="../public/image/sw4.jpg" alt="../public/image/sw4.jpg" width="500" height="300">
   </div>
   </a>
 </td>
