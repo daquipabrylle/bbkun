@@ -43,18 +43,18 @@ $.ajax({
 <tr>
 <center>
 <td><div class="gallery">
-  <a target="_blank" href="../public/image/sw1.jpg">
+  <a target="_blank" href="image/sw1.jpg">
   <div style="width:500px;height:300px;padding:10px;border:10px double red;">
-  <img src="../public/image/sw1.jpg" alt="../public/image/sw1.jpg" width="500" height="300">
+  <img src="image/sw1.jpg" alt="image/sw1.jpg" width="500" height="300">
   </a>
   </div>
   </div>
 </td>
 <td>
 <div cla ss="gallery"> 	
-  <a target="_blank" href="../public/image/sw2.jpg">
+  <a target="_blank" href="/sw2.jpg">
   <div style="width:500px;height:300px;padding:10px;border:10px double red;">
-    <img src="../public/image/sw2.jpg" alt="../public/image/sw2.jpg" width="500" height="300">
+    <img src="image/sw2.jpg" alt="image/sw2.jpg" width="500" height="300">
   </div>
   </a>
   </td>
@@ -63,9 +63,9 @@ $.ajax({
 <td>
 <center>
 <div class="gallery">
-  <a target="_blank" href="../public/image/sw3.jpg">
+  <a target="_blank" href="image/sw3.jpg">
   <div style="width:500px;height:300px;padding:10px;border:10px double red;">
-    <img src="../public/image/sw3.jpg" alt="../public/image/sw3.jpg" width="500" height="300">
+    <img src="image/sw3.jpg" alt="image/sw3.jpg" width="500" height="300">
   </div>
   </a>
 </td>  
@@ -75,7 +75,7 @@ $.ajax({
 <div class="gallery">
   <a target="_blank" href="../public/image/sw4.jpg">
   <div style="width:500px;height:300px;padding:10px;border:10px double red;">
-    <img src="../public/image/sw4.jpg" alt="../public/image/sw4.jpg" width="500" height="300">
+    <img src="image/sw4.jpg" alt="image/sw4.jpg" width="500" height="300">
   </div>
   </a>
 </td>
